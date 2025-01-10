@@ -1,0 +1,12 @@
+{
+  "url": "https://github.com/zoranbosnjak/asterix-libs.git",
+  "rev": "d4fce0e52e866442a4d5b21ba71a1d99e0d62e39",
+  "date": "2024-12-29T02:22:47Z",
+  "path": "/nix/store/7kq942vl17sk1nr5148j3z6yghccgarg-asterix-libs",
+  "sha256": "13x18fhkmx2n1a14mx5caqlgdxamg9qi12z0ny4dxhm4z59wx9iz",
+  "hash": "sha256-P6bOU/mkwt6It+CLEHF6VfX2KFas9EqCClb0OqFDoY8=",
+  "fetchLFS": false,
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}
